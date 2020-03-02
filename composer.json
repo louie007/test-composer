@@ -1,0 +1,6 @@
+{
+    "name": "louie007/test-composer",
+    "require": {
+        "monolog/monolog": "1.0.*"
+    }
+}
